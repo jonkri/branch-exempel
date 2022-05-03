@@ -22,9 +22,6 @@
       <li>
         <RouterLink to="/about">Om oss</RouterLink>
       </li>
-      <li>
-        <RouterLink to="/contact">Kontakt</RouterLink>
-      </li>
     </ul>
   </nav>
   <HelloWorld msg="Hello World!" />
