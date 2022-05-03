@@ -13,7 +13,7 @@
 </script>
 
 <template>
-  <h1>Ny fancy 2.0-version!</h1>
+  <h1>Ny fancy 2.0-version!</h1
   <nav>
     <ul>
       <li>
